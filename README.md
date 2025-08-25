@@ -5,7 +5,7 @@ IBB Task Team Automation script
 
 * Task Team Automation script was developed for Izmir Metro Municipality - Signalization department. 
 
-Through this application, the signaling department teams carried out regular monitoring of traffic light maintenance and repairs, inventory management, intersection configuration, report submissions, personnel tracking and management, as well as intra-departmental messaging.
+Through this application, Trafic Signalization department teams carried out regular monitoring of traffic light maintenance and repairs, inventory management, intersection configuration, report submissions, personnel tracking and management, as well as intra-departmental messaging.
 
 Information system was designed according to department's former operational standards.
 
